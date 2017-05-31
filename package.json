@@ -1,0 +1,29 @@
+{
+  "name": "poc-workbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaabrasil/poc-workbox.git"
+  },
+  "author": "Raphael Brasil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaabrasil/poc-workbox/issues"
+  },
+  "homepage": "https://github.com/raphaabrasil/poc-workbox#readme"
+}
